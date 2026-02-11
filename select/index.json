@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Ninelie",
+  "base_artist": "Aimer",
+  "createdAt": "2026-02-11T09:08:16.629694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ninelie(Lv)",
+      "artist": "澤野 弘之",
+      "has_synced": false,
+      "path": "select/01_Ninelie(Lv)_澤野_弘之.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer feat. Chelly",
+      "has_synced": true,
+      "path": "select/02_ninelie_Aimer_feat._Chelly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_ninelie_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ninelie (with Chelly) [TV Size]",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_Ninelie_(with_Chelly)_[TV_Size]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ninelie (instrumental)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_Ninelie_(instrumental)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ninelie",
+      "artist": "Aimer with chelly",
+      "has_synced": true,
+      "path": "select/06_Ninelie_Aimer_with_chelly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer with chelly (EGOIST)",
+      "has_synced": true,
+      "path": "select/07_ninelie_Aimer_with_chelly_(EGOIST).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ninelie <cry-v>",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": true,
+      "path": "select/08_ninelie__cry-v_SawanoHiroyuki[nZk]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ninelie <cry-v> (feat. Aimer)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/09_ninelie__cry-v__(feat._Aimer)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ninelie with chelly (EGOIST)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_ninelie_with_chelly_(EGOIST)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer with chelly (EGOIST)",
+      "has_synced": true,
+      "path": "select/11_ninelie_Aimer_with_chelly_(EGOIST).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer with chelly",
+      "has_synced": true,
+      "path": "select/12_ninelie_Aimer_with_chelly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_ninelie_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ninelie",
+      "artist": "Aimer/Chelly",
+      "has_synced": true,
+      "path": "select/14_ninelie_Aimer_Chelly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ninelie (Cry Version)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/15_Ninelie_(Cry_Version)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ninelie",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Ninelie_Aimer.txt"
+    }
+  ]
+}
